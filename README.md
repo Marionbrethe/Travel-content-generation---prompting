@@ -1,4 +1,4 @@
-# Travel Location Content Automation — Grounded LLM Pipeline
+# Travel Location Content Automation - Grounded LLM Pipeline
 
 This repository contains a pipeline for generating high-quality travel location content (stations, neighbourhoods, areas) using LLMs without hallucination.
 The project is intentionally opinionated: it treats LLMs as probabilistic writers, not truth engines, and builds guardrails around that assumption.
